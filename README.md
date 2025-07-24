@@ -32,6 +32,7 @@ Olá meu nome é Júlio Caynã, eu sou um estudante de redes de computadores no 
 ---
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1560671021-cb36f70ce82d?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="cyberpunk background"/>
+  <img src="https://images.unsplash.com/photo-1502872364588-894d7d6ddfab?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="100%" alt="cyberpunk background"/>
 </div>
+
 

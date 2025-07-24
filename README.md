@@ -20,7 +20,6 @@ Olá meu nome é Júlio Caynã, eu sou um estudante de redes de computadores no 
 
 - 📫 [juliocaynaaguiar@gmail.com](mailto:juliocaynaaguiar@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/j%C3%BAlio-cayn%C3%A3-aguiar-de-souza-b71639280/)  
-- 💻 [GitHub](https://github.com/preceptorugin)
 
 ---
 
